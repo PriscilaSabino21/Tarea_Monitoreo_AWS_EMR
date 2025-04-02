@@ -1,4 +1,5 @@
 #!/bin/bash
+# Configuración de Instancia EC2
 
 # Variables
 AMI_ID="ami-084568db4383264d4"  #ID de la AMI que estás usando
