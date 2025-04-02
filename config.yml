@@ -1,0 +1,5 @@
+# Nos muestre todas las metricas
+lowercaseOutputName: true
+lowercaseOutputLabelNames: true
+rules:
+  - pattern: ".*"
